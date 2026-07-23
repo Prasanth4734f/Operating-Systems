@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+struct employee
+{
+    int id;
+    char name[30];
+    float salary;
+};
+
+int main()
+{
+    FILE *fp;
+    struct employee e;
+    int pos;
+
+    fp=fopen("employee.dat","wb+");
+
+    for(int i=0;i<3;i++)
+    {
+        printf("Enter ID Name Salary:\n");
+        scanf("%d%s%f",&e.id,e.name,&e.salary);
+
+        fwrite(&e,sizeof(e),1,fp);
+    }
+
+    printf("Enter record number to display (1-3): ");
+    scanf("%d",&pos);
+
+    fseek(fp,(pos-1)*sizeof(e),SEEK_SET);
+
+    fread(&e,sizeof(e),1,fp);
+
+    printf("\nEmployee Details\n");
+    printf("ID : %d\n",e.id);
+    printf("Name : %s\n",e.name);
+    printf("Salary : %.2f\n",e.salary);
+
+    fclose(fp);
+
+    return 0;
+}
