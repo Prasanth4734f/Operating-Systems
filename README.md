@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=FFC0CB&center=true&vCenter=true&width=900&lines=OPERATING+SYSTEMS+LAB;Complete+C+Programming+Collection;CPU+Scheduling+%7C+IPC+%7C+Memory+Management;Deadlocks+%7C+Synchronization+%7C+File+Systems" />
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=OPERATING+SYSTEMS+LAB;Complete+C+Programming+Collection;CPU+Scheduling+%7C+IPC+%7C+Memory+Management;Deadlocks+%7C+Synchronization+%7C+File+Systems" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:00c6ff&text=Operating%20Systems%20Lab&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Complete%20Lab%20Programs%20in%20C%20Programming&descAlignY=60"/>
 
