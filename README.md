@@ -12,9 +12,9 @@
 
 ## 👨‍💻 Student Information
 
-| **Name** | **Register Number** | **Course** |
-|:---------:|:------------------:|:----------:|
-| **M Prasanth Kumar Reddy** | **192325053** | **Operating Systems Laboratory** |
+| **Name** | **Register Number** | **Course** |  **Faculty** |
+|:---------:|:------------------:|:----------:|:------------:|
+| **M Prasanth Kumar Reddy** | **192325053** | **Operating Systems Laboratory** |**RUBY ELIZABETH J**|
 
 </div>
 
